@@ -1,1 +1,3 @@
-https://www.github.com/OWASP/www-project-zsc-tool/tree/master/_config.yml
+remote_theme: "owasp/www--site-theme@main"
+plugins:
+ - jekyll-include-cache-0.2.0
